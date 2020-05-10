@@ -1,0 +1,2 @@
+class PurchaseOrderSheet < ApplicationRecord
+end

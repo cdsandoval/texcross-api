@@ -1,0 +1,2 @@
+class ConsumptionSheet < ApplicationRecord
+end

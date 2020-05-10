@@ -1,0 +1,2 @@
+class ReferralGuide < ApplicationRecord
+end

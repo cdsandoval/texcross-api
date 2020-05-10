@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start_date: 2020-05-10
+  start_quantity: 
+  delivery_date: 2020-05-10
+  delivery_quantity: 
+  sold_out_date: 2020-05-10
+  sold_out_quantity: 
+  purchase_order_color: one
+
+two:
+  start_date: 2020-05-10
+  start_quantity: 
+  delivery_date: 2020-05-10
+  delivery_quantity: 
+  sold_out_date: 2020-05-10
+  sold_out_quantity: 
+  purchase_order_color: two

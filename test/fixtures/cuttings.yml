@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  total: 
+  referral_guide: one
+  purchase_order_colors: one
+
+two:
+  total: 
+  referral_guide: two
+  purchase_order_colors: two

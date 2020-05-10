@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  description: MyString
+  commercial: one
+  consumption_sheet: one
+  data_sheet: one
+  purchase_order_sheet: one
+
+two:
+  description: MyString
+  commercial: two
+  consumption_sheet: two
+  data_sheet: two
+  purchase_order_sheet: two
